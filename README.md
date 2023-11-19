@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 💬 Ask me about **React JS and Frontend**
+- 💬 Ask me about **React JS  , TS  , Web Designing**
 
 - 📫 How to reach me **aishraj05@gmail.com**
 
