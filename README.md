@@ -7,7 +7,7 @@
 
 - 🌱 Currently working and focusing on  my MERN skills*
 
-- 💬 Ask me about **React JS , TS , Node JS  , Web Designing  , HTML , CSS , JS**
+- 💬 Ask me about **Next-JS , React-JS ,Node-JS  , TS , Web Designing  , HTML , CSS , JS**
 
 - 📫 How to reach me **aishraj05@gmail.com**
 
