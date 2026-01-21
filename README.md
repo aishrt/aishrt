@@ -11,13 +11,13 @@
 
 ## 👨‍💻 About Me
 
-- 💼 **Software Engineer at Softuvo Solutions Pvt. Ltd.**
+- 💼 **Software Engineer**
 - 🚀 **3+ years of experience** building scalable SaaS & full-stack applications
 - 🧩 Specialized in **MERN Stack, Next.js, Stripe, SaaS platforms**
 - 🔐 Strong experience with **authentication, payments & integrations**
 - 🛠 Worked on **15+ production projects** across startups & enterprises
 
-📍 Mohali, India  
+📍 Chandigarh, India  
 📫 **Email:** aishraj05@gmail.com  
 
 ---
