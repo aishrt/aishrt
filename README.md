@@ -50,37 +50,6 @@
 
 ---
 
-## 💼 Professional Experience
-
-### **Software Engineer** — *Softuvo Solutions Pvt. Ltd.*  
-📅 **May 2024 – Present**
-
-- Delivered **5+ client SaaS projects** using Next.js, React, Node.js & MongoDB
-- Implemented **Stripe subscriptions & payment flows**
-- Built **PowerPoint Add-ins** with dynamic UI and contextual switching
-- Developed scalable frontend architectures for production apps
-
----
-
-### **MERN Stack Developer** — *Esferasoft Solutions Pvt. Ltd.*  
-📅 **Feb 2023 – May 2024**
-
-- Contributed to **9+ full-stack applications**
-- Integrated **Redis, Firebase Auth, Google Maps, Stripe**
-- Optimized authentication & signup flows
-- Fixed production bugs & improved performance
-
----
-
-### **Frontend Developer** — *Zenid Infotech Pvt. Ltd.*  
-📅 **Jan 2022 – Oct 2022**
-
-- Built responsive UIs using **React + TypeScript**
-- Integrated APIs, webhooks & social logins
-- Used **Zustand** for state management
-
----
-
 ## 🚀 Key Projects
 
 🔹 **AnovaHomes** – SaaS for solar installation firms  
@@ -103,21 +72,8 @@
 
 ---
 
-## 📜 Education
 
-- 🎓 **MCA** — Chandigarh University (2023)
-- 🎓 **BCA** — JMIT, Kurukshetra University (2021)
-- 📘 O-Level — NIELET
 
----
-
-## 🏆 Achievements
-
-- 🥇 Excellence Certificate in Quiz — Aptron Solutions
-- 🏅 Debate Finalist — Power Grid Corporation Haryana
-- 🎯 Organizer — Make It Happen Club
-
----
 
 ## 🤝 Connect With Me
 
