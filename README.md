@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1a1b27,50:3d59a1,100:bf91f3&height=190&section=header&text=Aishwarya%20Raj%20Tyagi&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=SDE%203%20%E2%80%A2%20Full-Stack%20Software%20Engineer%20%E2%80%A2%20MERN%20%E2%80%A2%20AI&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Aishwarya Raj Tyagi" />
+  <img src="./assets/header.svg" width="100%" alt="Aishwarya Raj Tyagi" />
 </p>
 
 <p align="center">
@@ -17,12 +17,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open_to-opportunities-2EA44F?style=flat" alt="Open to opportunities" />
+  <img src="./assets/status-open.svg" alt="Open to opportunities" />
   <img src="https://img.shields.io/badge/Location-Mohali%2C_India-FF9933?style=flat" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=aishrt&label=Profile%20views&color=3d59a1&style=flat" alt="Profile views" />
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" height="8" alt="" /></p>
 
 ## 👨‍💻 About Me
 
@@ -42,7 +42,7 @@ I'm a **Full-Stack Software Engineer (SDE 3)** at **Websmiths** with **5 years**
 - 🤝 I work directly with clients to turn business requirements into production-ready software
 - ⚡ I care about **performance, reliability & reusable architecture**
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" height="8" alt="" /></p>
 
 ## 💼 Experience
 
@@ -58,7 +58,7 @@ Contributed to 9+ full-stack apps · Integrated Redis, Firebase Auth, SMTP, Goog
 **🟠 Frontend Developer** · Zenid Infotech &nbsp; `Jan 2022 – Oct 2022`  
 Responsive UIs with React, TypeScript & Zustand · Webhooks & social login (Google, GitHub, Twitter).
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" height="8" alt="" /></p>
 
 ## 🧠 Tech Stack
 
@@ -177,7 +177,7 @@ Responsive UIs with React, TypeScript & Zustand · Webhooks & social login (Goog
 
 </details>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" height="8" alt="" /></p>
 
 ## 🚀 Featured Projects
 
@@ -230,7 +230,7 @@ Responsive UIs with React, TypeScript & Zustand · Webhooks & social login (Goog
 
 </details>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" height="8" alt="" /></p>
 
 ## 🎓 Education & Certifications
 
@@ -247,7 +247,7 @@ Responsive UIs with React, TypeScript & Zustand · Webhooks & social login (Goog
 - 🧑‍🤝‍🧑 **Organizer**: Make It Happen Club
 - 🧠 **Quiz Participant**: APJ Abdul Kalam Technical University
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" height="8" alt="" /></p>
 
 ## 📊 GitHub Stats
 
@@ -264,7 +264,7 @@ Responsive UIs with React, TypeScript & Zustand · Webhooks & social login (Goog
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aishrt&theme=tokyonight" alt="Contribution graph" />
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" height="8" alt="" /></p>
 
 ## 🤝 Let's Connect
 
@@ -281,5 +281,5 @@ Responsive UIs with React, TypeScript & Zustand · Webhooks & social login (Goog
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:bf91f3,50:3d59a1,100:1a1b27&height=110&section=header&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&fontAlignY=52" width="100%" alt="Thanks for visiting!" />
+  <img src="./assets/footer.svg" width="100%" alt="Thanks for visiting!" />
 </p>

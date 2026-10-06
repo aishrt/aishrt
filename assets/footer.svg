@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110" role="img" aria-labelledby="ftr-title">
+  <title id="ftr-title">Thanks for visiting!</title>
+  <style>
+    .orb, .farewell { transform-box: fill-box; transform-origin: center; }
+    .orb-a { animation: drift-a 20s cubic-bezier(.45, 0, .55, 1) infinite alternate; }
+    .orb-b { animation: drift-b 25s cubic-bezier(.45, 0, .55, 1) infinite alternate; }
+    .farewell { animation: rise 1s cubic-bezier(.22, 1, .36, 1) .2s both; }
+    @keyframes drift-a { to { transform: translate(60px, 12px) scale(1.1); } }
+    @keyframes drift-b { to { transform: translate(-70px, -10px) scale(.94); } }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } }
+    /* Inside an SVG image, width queries match the rendered image size: keep text legible on phones. */
+    @media (max-width: 520px) {
+      .farewell { font-size: 40px; transform: translateY(3px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .orb, .farewell { animation: none; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="ftr-bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#bf91f3"/>
+      <stop offset=".5" stop-color="#3d59a1"/>
+      <stop offset="1" stop-color="#1a1b27"/>
+    </linearGradient>
+    <radialGradient id="ftr-orb-a">
+      <stop offset="0" stop-color="#e3c8ff" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#bf91f3" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="ftr-orb-b">
+      <stop offset="0" stop-color="#70a5fd" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#70a5fd" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ftr-gloss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".08"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="ftr-dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#fff" fill-opacity=".09"/>
+    </pattern>
+    <radialGradient id="ftr-fade" cx=".5" cy=".5" r=".6">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#000"/>
+    </radialGradient>
+    <mask id="ftr-dots-mask">
+      <rect width="900" height="110" fill="url(#ftr-fade)"/>
+    </mask>
+    <clipPath id="ftr-clip">
+      <rect width="900" height="110" rx="16"/>
+    </clipPath>
+    <filter id="ftr-shadow" x="-10%" y="-40%" width="120%" height="180%">
+      <feDropShadow dx="0" dy="2" stdDeviation="5" flood-color="#0b0d1a" flood-opacity=".3"/>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#ftr-clip)">
+    <rect width="900" height="110" fill="url(#ftr-bg)"/>
+    <circle class="orb orb-a" cx="130" cy="20" r="200" fill="url(#ftr-orb-a)"/>
+    <circle class="orb orb-b" cx="760" cy="110" r="190" fill="url(#ftr-orb-b)"/>
+    <rect width="900" height="110" fill="url(#ftr-dots)" mask="url(#ftr-dots-mask)"/>
+    <rect width="900" height="110" fill="url(#ftr-gloss)"/>
+  </g>
+  <rect x=".5" y=".5" width="899" height="109" rx="15.5" fill="none" stroke="#fff" stroke-opacity=".1"/>
+
+  <text class="farewell" x="450" y="66" text-anchor="middle" fill="#fff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="-.3" filter="url(#ftr-shadow)">Thanks for visiting!</text>
+</svg>
