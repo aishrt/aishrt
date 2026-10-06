@@ -59,40 +59,32 @@ I'm a **Full-Stack Software Engineer (SDE 3)** at **Websmiths** with **5 years**
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
-
-🏢  **Currently**
-`SDE 3 @ Websmiths`
-
-⏳  **Experience**
-`5 years` `15+ client products shipped`
-
-📍  **Based in**
-`Mohali, India`
-
-</td>
-
-<td align="center" width="50%">
-
-🌍  **Domains**
-`SaaS` `Fintech` `Logistics` `E-commerce` `AI` `Security`
-
-⚡  **Daily drivers**
-`React` `Next.js` `TypeScript` `Node.js` `MongoDB`
-
-🤖  **Building now**
-`AI voice agents` `LLM workflows` `Real-time systems`
-
-</td>
+<td>🏢&nbsp; <b>Currently</b></td>
+<td><code>SDE 3 @ Websmiths</code></td>
 </tr>
-
 <tr>
-<td align="center" colspan="2">
-
-💬  **Ask me about**
-`Auth & payments` `Chrome extensions` `Monorepos` `Performance`
-
-</td>
+<td>⏳&nbsp; <b>Experience</b></td>
+<td><code>5 years</code> <code>15+ client products shipped</code></td>
+</tr>
+<tr>
+<td>📍&nbsp; <b>Based in</b></td>
+<td><code>Mohali, India</code></td>
+</tr>
+<tr>
+<td>🌍&nbsp; <b>Domains</b></td>
+<td><code>SaaS</code> <code>Fintech</code> <code>Logistics</code> <code>E-commerce</code> <code>AI</code> <code>Security</code></td>
+</tr>
+<tr>
+<td>⚡&nbsp; <b>Daily drivers</b></td>
+<td><code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>MongoDB</code></td>
+</tr>
+<tr>
+<td>🤖&nbsp; <b>Building now</b></td>
+<td><code>AI voice agents</code> <code>LLM workflows</code> <code>Real-time systems</code></td>
+</tr>
+<tr>
+<td>💬&nbsp; <b>Ask me about</b></td>
+<td><code>Auth &amp; payments</code> <code>Chrome extensions</code> <code>Monorepos</code> <code>Performance</code></td>
 </tr>
 </table>
 
@@ -213,27 +205,9 @@ Responsive UIs with React, TypeScript & Zustand · Webhooks & social login (Goog
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,angular,tailwind,vite,redux,threejs,html,css&perline=11" alt="Frontend" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,redis,supabase,firebase&perline=11" alt="Backend & Data" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,netlify,git,github,postman,vscode,jest,vitest&perline=11" alt="DevOps & Tools" />
-</p>
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=zustand,tanstack,reactquery,framer,hono,socketio,drizzle&perline=7" alt="Modern tooling" />
-</p>
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=stripe,shopify,claude,turborepo,railway,playwright,cursor&perline=7" alt="Integrations & tooling" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,postgres,docker,aws&theme=dark" width="380" alt="Core stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,angular,tailwind,vite,redux,threejs,html,css,nodejs,express,fastapi,mongodb,postgres,redis,supabase,firebase,aws,docker,githubactions,netlify,git,github,postman,jest,vitest&perline=7" alt="Frontend, backend, data and DevOps" />
+  <br/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=zustand,tanstack,reactquery,framer,hono,socketio,drizzle,stripe,shopify,claude,turborepo,railway,playwright,cursor&perline=7" alt="Modern tooling and integrations" />
 </p>
 
 <details>
