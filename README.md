@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://aishwaryarajtyagi.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&width=760&lines=SDE+3+%40+Websmiths;Full-Stack+Engineer+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Building+AI+voice+agents+%26+LLM+workflows;15%2B+products+shipped+across+SaaS%2C+Fintech+%26+Logistics" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&width=760&lines=Sr.+Full-Stack+Developer;Full-Stack+Engineer+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Building+AI+voice+agents+%26+LLM+workflows;15%2B+products+shipped+across+SaaS%2C+Fintech+%26+Logistics" alt="Typing intro" />
   </a>
 </p>
 
@@ -53,14 +53,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Software Engineer (SDE 3)** at **Websmiths** with **5 years** of experience building scalable web apps, SaaS platforms, enterprise systems, AI-powered products and browser extensions, from pixel-perfect React frontends to solid Node.js APIs.
+I'm a **Sr. Full-Stack Developer** with **5 years** of experience building scalable web apps, SaaS platforms, enterprise systems, AI-powered products and browser extensions, from pixel-perfect React frontends to solid Node.js APIs.
 
 <br/>
 
 <table align="center">
 <tr>
 <td>🏢&nbsp; <b>Currently</b></td>
-<td><code>SDE 3 @ Websmiths</code></td>
+<td><code>Sr. Full-Stack Developer</code></td>
 </tr>
 <tr>
 <td>⏳&nbsp; <b>Experience</b></td>
@@ -147,9 +147,9 @@ I care about **performance, reliability & reusable architecture**
 <td width="8%" align="center">🟣</td>
 <td>
 
-### SDE 3 · Full-Stack Software Engineer
+### Sr. Full-Stack Developer
 
-**Websmiths Pvt. Ltd.**   `Apr 2026 – Present`
+**Independent / Enterprise Solutions** &nbsp;&nbsp;`Apr 2026 – Present`
 
 Own SaaS features end-to-end in a monorepo: auth, payments, subscriptions, webhooks & real-time features across AI, logistics & e-commerce products.
 
@@ -162,7 +162,7 @@ Own SaaS features end-to-end in a monorepo: auth, payments, subscriptions, webho
 
 ### Software Engineer
 
-**[Softuvo Solutions](https://www.softuvo.com/)**   `May 2024 – Apr 2026`
+**[Softuvo Solutions](https://www.softuvo.com/)** &nbsp;&nbsp;`May 2024 – Apr 2026`
 
 Delivered 5+ client projects · Stripe subscriptions with Angular + Node.js · Built a PowerPoint add-in · Led team tasks & client communication.
 
@@ -175,7 +175,7 @@ Delivered 5+ client projects · Stripe subscriptions with Angular + Node.js · B
 
 ### MERN Stack Developer
 
-**[Esferasoft Solutions](https://www.esferasoft.com/)**   `Feb 2023 – May 2024`
+**[Esferasoft Solutions](https://www.esferasoft.com/)** &nbsp;&nbsp;`Feb 2023 – May 2024`
 
 Contributed to 9+ full-stack apps · Integrated Redis, Firebase Auth, SMTP, Google Maps, Stripe, Vector DB & Escrow.
 
@@ -188,7 +188,7 @@ Contributed to 9+ full-stack apps · Integrated Redis, Firebase Auth, SMTP, Goog
 
 ### Frontend Developer
 
-**Zenid Infotech**   `Jan 2022 – Oct 2022`
+**Zenid Infotech** &nbsp;&nbsp;`Jan 2022 – Oct 2022`
 
 Responsive UIs with React, TypeScript & Zustand · Webhooks & social login (Google, GitHub, Twitter).
 
@@ -450,16 +450,16 @@ Custom Shopify storefront for a lifestyle brand with a curated catalog & secure 
 
 <br/>
 
-* 🎨 **[Paint & Memories](https://create.paintandmemories.com/)**: AI platform that turns personal photos into traditional paintings  `React` `Node.js` `Stripe`
-* 📸 **[SnapShot Pro](https://chromewebstore.google.com/detail/lajmpjkepgpiaondpghbajapdgkdaiop)**: Chrome extension for HD full-page, scrolling & visible-area screenshots  `Manifest V3`
-* 🎓 **[Student Chrome Extension](https://student-chrome-extension.web.app/)**: discounts, loan offers & personal finance with real-time data  `Firebase`
-* 📊 **PowerPoint Add-in**: dynamic UI tabs & contextual switching inside PowerPoint  `Office Add-in API`
-* 🎁 **[Generic Ideas](http://genericideas.com/)**: e-commerce gift store with secure checkout & same-day delivery  `MERN` `Stripe`
-* 🥭 **[Golden Harvest Mango](https://goldenharvestmango.com/)**: e-commerce store for premium farm-fresh mangoes  `React`
-* 🌍 **[Gulf Connect Consultancy](https://www.gulfconnectconsultancy.com/)**: bilingual (EN/AR) site for a Dubai capital-markets consultancy  `Next.js`
-* 🏢 **[SOFISAM](https://sofisam-seven.vercel.app/)**: corporate advisory platform for a Dubai-based firm  `React`
-* 🧸 **[Country Kids Learning Center](https://www.countrykids.au/)**: website for a not-for-profit early learning centre in Victoria, Australia  `React`
-* 🤝 **[Bestow India](https://www.bestowindia.com/)**: end-to-end people & business development partner  `React`
+- 🎨 **[Paint & Memories](https://create.paintandmemories.com/)**: AI platform that turns personal photos into traditional paintings &nbsp;`React` `Node.js` `Stripe`
+- 📸 **[SnapShot Pro](https://chromewebstore.google.com/detail/lajmpjkepgpiaondpghbajapdgkdaiop)**: Chrome extension for HD full-page, scrolling & visible-area screenshots &nbsp;`Manifest V3`
+- 🎓 **[Student Chrome Extension](https://student-chrome-extension.web.app/)**: discounts, loan offers & personal finance with real-time data &nbsp;`Firebase`
+- 📊 **PowerPoint Add-in**: dynamic UI tabs & contextual switching inside PowerPoint &nbsp;`Office Add-in API`
+- 🎁 **[Generic Ideas](http://genericideas.com/)**: e-commerce gift store with secure checkout & same-day delivery &nbsp;`MERN` `Stripe`
+- 🥭 **[Golden Harvest Mango](https://goldenharvestmango.com/)**: e-commerce store for premium farm-fresh mangoes &nbsp;`React`
+- 🌍 **[Gulf Connect Consultancy](https://www.gulfconnectconsultancy.com/)**: bilingual (EN/AR) site for a Dubai capital-markets consultancy &nbsp;`Next.js`
+- 🏢 **[SOFISAM](https://sofisam-seven.vercel.app/)**: corporate advisory platform for a Dubai-based firm &nbsp;`React`
+- 🧸 **[Country Kids Learning Center](https://www.countrykids.au/)**: website for a not-for-profit early learning centre in Victoria, Australia &nbsp;`React`
+- 🤝 **[Bestow India](https://www.bestowindia.com/)**: end-to-end people & business development partner &nbsp;`React`
 
 <br/>
 
