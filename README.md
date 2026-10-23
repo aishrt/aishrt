@@ -19,11 +19,8 @@
 </p>
 
 <p align="center">
-  <a href="https://aishwaryarajtyagi.netlify.app/">
+  <a href="https://codewithaish.vercel.app/">
     <img height="30" src="https://img.shields.io/badge/Portfolio-Visit-70A5FD?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b27" alt="Portfolio" />
-  </a>
-  <a href="https://aishwaryarajtyagi.netlify.app/AISHWARYA_RAJ_TYAGI_RESUME.pdf">
-    <img height="30" src="https://img.shields.io/badge/Resume-Download-BF91F3?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1a1b27" alt="Resume" />
   </a>
   <a href="https://www.linkedin.com/in/aishwarya-raj-tyagi/">
     <img height="30" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn" />
@@ -590,7 +587,7 @@ Custom Shopify storefront for a lifestyle brand with a curated catalog & secure 
 </p>
 
 <p align="center">
-  <a href="https://aishwaryarajtyagi.netlify.app/">
+  <a href="https://codewithaish.vercel.app/">
     <img height="30" src="https://img.shields.io/badge/Portfolio-70A5FD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/aishwarya-raj-tyagi/">
