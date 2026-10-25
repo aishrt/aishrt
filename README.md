@@ -1,3 +1,4 @@
+
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
@@ -9,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aishwaryarajtyagi.netlify.app/">
+  <a href="https://codewithaish.vercel.app/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&width=760&lines=Sr.+Full-Stack+Developer;Full-Stack+Engineer+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Building+AI+voice+agents+%26+LLM+workflows;15%2B+products+shipped+across+SaaS%2C+Fintech+%26+Logistics" alt="Typing intro" />
   </a>
 </p>
@@ -50,7 +51,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Sr. Full-Stack Developer** with **5 years** of experience building scalable web apps, SaaS platforms, enterprise systems, AI-powered products and browser extensions, from pixel-perfect React frontends to solid Node.js APIs.
+I'm a **Sr. Full-Stack Developer** with **7 years** of experience building scalable web apps, SaaS platforms, enterprise systems, AI-powered products and browser extensions, from pixel-perfect React frontends to solid Node.js APIs.
 
 <br/>
 
@@ -61,7 +62,7 @@ I'm a **Sr. Full-Stack Developer** with **5 years** of experience building scala
 </tr>
 <tr>
 <td>⏳&nbsp; <b>Experience</b></td>
-<td><code>5 years</code> <code>15+ client products shipped</code></td>
+<td><code>7 years</code> <code>15+ client products shipped</code></td>
 </tr>
 <tr>
 <td>📍&nbsp; <b>Based in</b></td>
@@ -98,7 +99,6 @@ I'm a **Sr. Full-Stack Developer** with **5 years** of experience building scala
 I own features **end-to-end**: requirements → architecture → APIs → deployment → production support
 
 </td>
-
 <td width="50%" valign="top">
 
 🔐 **Production Integrations**
@@ -107,7 +107,6 @@ Deep experience with **authentication, payments, subscriptions, webhooks & third
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -116,7 +115,6 @@ Deep experience with **authentication, payments, subscriptions, webhooks & third
 I work directly with clients to turn business requirements into production-ready software
 
 </td>
-
 <td width="50%" valign="top">
 
 ⚡ **Engineering Quality**
@@ -136,7 +134,7 @@ I care about **performance, reliability & reusable architecture**
 ## 💼 Experience
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3500&pause=900&color=BF91F3&center=true&vCenter=true&width=500&lines=5+Years+of+Engineering+Experience;Multiple+Products+%E2%80%A2+Multiple+Domains;From+Frontend+to+Production" alt="Experience animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3500&pause=900&color=BF91F3&center=true&vCenter=true&width=500&lines=7%2B+Years+of+Engineering+Experience;Multiple+Products+%E2%80%A2+Multiple+Domains;From+Frontend+to+Production" alt="Experience animation" />
 </p>
 
 <table>
@@ -245,7 +243,7 @@ Responsive UIs with React, TypeScript & Zustand · Webhooks & social login (Goog
 ![oRPC](https://img.shields.io/badge/oRPC-0F172A?style=flat)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI_/_Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![OpenAPI](https://img.shields.io/badge/OpenAPI_%2F_Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
 ![Better Auth](https://img.shields.io/badge/Better_Auth-0F172A?style=flat)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
@@ -462,7 +460,7 @@ Custom Shopify storefront for a lifestyle brand with a curated catalog & secure 
 
 <p align="center">
   <a href="https://aishwaryarajtyagi.netlify.app/projects">
-    <img src="https://img.shields.io/badge/→_See_All_Projects-70A5FD?style=for-the-badge&labelColor=1a1b27" alt="See all projects" />
+    <img src="https://img.shields.io/badge/See_All_Projects-70A5FD?style=for-the-badge&labelColor=1a1b27" alt="See all projects" />
   </a>
 </p>
 
@@ -583,7 +581,7 @@ Custom Shopify storefront for a lifestyle brand with a curated catalog & secure 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3200&pause=900&color=70A5FD&center=true&vCenter=true&width=550&lines=Have+a+project%3F+Let's+build+it.;Looking+for+a+Full-Stack+Engineer%3F+Let's+talk.;Open+to+full-stack+%26+AI+product+opportunities." alt="Connect animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3200&pause=900&color=70A5FD&center=true&vCenter=true&width=550&lines=Have+a+project%3F+Let%27s+build+it.;Looking+for+a+Full-Stack+Engineer%3F+Let%27s+talk.;Open+to+full-stack+%26+AI+product+opportunities." alt="Connect animation" />
 </p>
 
 <p align="center">
@@ -604,7 +602,7 @@ Custom Shopify storefront for a lifestyle brand with a curated catalog & secure 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=gradient&customColorList=12,14,16,18&text=Let's%20build%20something%20great&fontSize=22&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55" width="100%" alt="Let's build something great" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=gradient&customColorList=12,14,16,18&text=Let%27s%20build%20something%20great&fontSize=22&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55" width="100%" alt="Let's build something great" />
 </p>
 
 <p align="center">
